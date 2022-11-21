@@ -1,0 +1,22 @@
+{
+  "name": "is-chrysa",
+  "version": "1.0.0",
+  "description": "creating a test npm package to test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrysa-tsiv/is-chrysa-npm-package.git"
+  },
+  "keywords": [
+    "chrysa"
+  ],
+  "author": "chrysa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrysa-tsiv/is-chrysa-npm-package/issues"
+  },
+  "homepage": "https://github.com/chrysa-tsiv/is-chrysa-npm-package#readme"
+}
